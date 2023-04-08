@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-  <img src="(https://img.shields.io/badge/powered%20by-Abid0987-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://github.com/Abid0987)>
+ 
 
 [![Powered by Abid0987](https://img.shields.io/badge/powered%20by-Abid0987-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://github.com/Abid0987)
 </p>
