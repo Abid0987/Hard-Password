@@ -25,6 +25,18 @@
 
 ##
 
+### Installation (Termux)
+You can easily install hard password in Termux 
+```
+$ apt update
+$ apt upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install git
+$ git lone https://github.com/Abid0987/Herd-Password-.git
+$ Herd-Password-
+```
+
 ### Features
 
 - Generate Hard Password 
@@ -43,7 +55,7 @@
 
 <b>Hard-Password</b> requires following programs to run properly - 
 - `git`
-- `python3`
+- `python2`
 - `php`
 
 </details>
@@ -61,6 +73,7 @@
 
 ##
 
+https://github.com/Abid0987/Herd-Password-.git
 
 # Equipment 
 - $ apt update
