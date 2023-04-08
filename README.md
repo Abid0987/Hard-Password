@@ -12,7 +12,7 @@
   
   <img src="https://img.shields.io/badge/Author-Abid0987-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/powered%20by-Abid0987-orange.svg?style=flat&colorA=E1523D&colorB=007D8A(https://github.com/Abid0987)">
+  <img src="https://img.shields.io/badge/powered%20by-Abid0987-orange.svg?style=flat&colorA=E1523D&colorB=007D8A(https://github.com/Abid0987)"/>
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/>
   
