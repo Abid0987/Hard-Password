@@ -25,17 +25,32 @@
 
 ##
 
+### Installation
+
+- Just, Clone this repository -
+  ```
+  git clone --depth=1 https://github.com/Abid0987/Hard-Password.git
+  ```
+
+- Now go to cloned directory and run `Password generated.py` -
+  ```
+  $ cd Hard-Password
+  $ python3 Password generated.py
+  ```
+
+- On first launch, It'll install the dependencies and that's it. ***Hard-Password*** is installed.
+
+##
+
 ### Installation (Termux)
 You can easily install hard password in Termux 
 ```
-$ apt update
-$ apt upgrade
-$ pkg install python
 $ pkg install python2
-$ pkg install git
-$ git lone https://github.com/Abid0987/Herd-Password-.git
-$ Herd-Password-
+$ pkg install Hard-Password
+$ Hard-Password
 ```
+
+##
 
 ### Features
 
