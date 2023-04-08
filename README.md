@@ -88,11 +88,13 @@ $ Hard-Password
 
 ##
 
-https://github.com/Abid0987/Herd-Password-.git
+##
 
-# Equipment 
-- $ apt update
-- $ apt upgrade
-- $ pkg install python
-- $ pkg install python2
-- $ pkg install git 
+### Find Me on:
+<p align="left">
+  <a href="https://github.com/Abid0987" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://www.hackerrank.com/mdabid224499" target="_blank"><img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank"></a>
+  <a href="https://leetcode.com/black_hate/" target="_blank"><img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/abid-hasan-99345b26a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
