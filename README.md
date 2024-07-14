@@ -23,7 +23,7 @@
 [![Powered by Abid0987](https://img.shields.io/badge/powered%20by-Abid0987-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://github.com/Abid0987)
 </p>
 
-<h3 align="center">This tool generate unlimited herd password.</h3>
+<h3 align="center">This tool generate unlimited hard password.</h3>
 
 ##
 
@@ -47,9 +47,7 @@
 ### Installation (Termux)
 You can easily install hard password in Termux 
 ```
-$ pkg install python2
-$ pkg install Hard-Password
-$ Hard-Password
+pkg install python2 && pkg install Hard-Password && Hard-Password
 ```
 
 ##
