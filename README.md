@@ -37,7 +37,7 @@
 - Now go to cloned directory and run `Password generated.py` -
   ```
   $ cd Hard-Password
-  $ python3 Password generated.py
+  $ python3 password_generated.py
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Hard-Password*** is installed.
